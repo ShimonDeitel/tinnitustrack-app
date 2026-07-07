@@ -1,0 +1,40 @@
+{
+  "identifier": "1",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Tinnitustrack Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Trigger correlation report and export for audiologist",
+              "displayName": "Tinnitustrack Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.tinnituslog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Tinnitustrack Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
